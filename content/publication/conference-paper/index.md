@@ -4,10 +4,10 @@ authors:
 - admin
 date: "2009-06-09"
 doi: ""
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Evening Standard**](https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/05/21/11/manchester-united-chelsea-2008-champions-league-final.jpg)'
-  focal_point: ""
+  focal_point: "top"
   preview_only: false
 links:
 - name: PDF
@@ -15,7 +15,6 @@ links:
 projects:
 - "1"
 publishDate: "2009-06-09T00:00:00Z"
-slides: example
 summary: Stochastic intensities models for goal scoring in soccer, calibrated on market data.
 tags:
 - Source Themes

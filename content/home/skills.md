@@ -28,6 +28,19 @@ feature:
   icon: icons8-c+++
   icon_pack: custom
   name: C++
+- description: 80%
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 80%
+  icon: mysql
+  icon_pack: custom
+  name: SQL
+- description: 100%
+  icon: h2o_logo
+  icon_pack: custom
+  name: H2O.ai
+  url: https://www.h2o.ai/
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
