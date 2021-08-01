@@ -1,53 +1,25 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Online soccer betting has become a complex continuous-time market. Hence, the need for continuous time and sophisticated models is obvious as the original simple Poisson model of Maher is not able to reproduce the prices and dynamics that we observe in the market. In order to price bets more accurately, Dixon and Robinson proposed some modulated Poisson processes for goals. Nevertheless, as there are few closed-form for most liquid bets, they chose to calibrate their model historically. We generalize their models and describe a procedure to calibrate the prices implicitely from a set of basic bets prices. Our main result is the expressions of prices of correct score bets in this model.
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2009-06-09"
 doi: ""
-featured: true
+featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Evening Standard**](https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/05/21/11/manchester-united-chelsea-2008-champions-league-final.jpg)'
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: PDF
+  url: https://www.researchgate.net/publication/274892934_How_Do_Markets_Play_Soccer
 projects:
-- internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
-publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2009-06-09T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Stochastic intensities models for goal scoring in soccer, calibrated on market data.
 tags:
 - Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+title: How Do Markets Play Soccer?
+url_slides: "https://www.researchgate.net/publication/274892944_How_Do_Markets_Play_Soccer"
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
