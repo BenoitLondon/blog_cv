@@ -33,7 +33,7 @@ experience:
         My responsibilities include:
         
         * Analysing rich event data (Opta, Wyscout, odds, ...)
-        * Developing C++ libraries to fit statistical models (Large Scale Kalman Filters, ...)
+        * Developing C++ libraries to fit statistical models (Large Scale Kalman Filters, Spase Matrix Library, ...)
         * Building R packages for ETL, modeling and visualization.
         * Modeling Football player ratings.
         
@@ -44,7 +44,7 @@ experience:
     location: Paris, France
     date_start: '2003-10-01'
     date_end: '2009-06-30'
-    description: Taught about algebra, analysis, probabilities and financial mathematics at BSc and MSc levels.
+    description: Taught about Algebra, Analysis, Probabilities and Financial Mathematics at BSc and MSc levels.
 
   - title: Intern Quantitative Analyst
     company: Engie
