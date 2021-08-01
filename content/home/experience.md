@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Senior Quantitative Analyst
+    company: Smartodds Ltd
+    company_url: 'https://www.smartodds.co.uk'
+    company_logo: so
+    location: London, UK
+    date_start: '2009-09-15'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,14 +36,23 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
+  - title: Graduate Lecturer in Mathematics
+    company: Paris Est Sup University
+    company_url: 'https://www.paris-est-sup.fr/en/'
+    company_logo: Logo_Paris-Est_Sup
+    location: Paris, France
+    date_start: '2003-10-01'
+    date_end: '2009-06-30'
+    description: Taught about algebra, analysis, probabilities and financial mathematics at BSc and MSc levels.
+
+  - title: Intern Quantitative Analyst
+    company: Engie
+    company_url: 'https://www.engie.com/en'
+    company_logo: Engie_logo
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2003-03-01'
+    date_end: '2020-09-01'
+    description: Worked on Forward Gas Contracts prices modeling and developed application to expose prices to traders.
 
 design:
   columns: '2'
