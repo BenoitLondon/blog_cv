@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Machine Learning, Applied Probabilities and Sports Betting.
 education:
   courses:
   - course: PhD in Applied Mathematics
@@ -18,9 +17,9 @@ interests:
 - Machine Learning
 - Computer Science
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Smartodds Ltd
+  url: https://www.smartodds.co.uk
+role: Senior Quantitative Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,16 +35,15 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/BenoitLondon
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/bjottreau/
 superuser: true
 title: Benoit Jottreau
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my blog! I am a Senior Quantitative Analyst working in the Sports Betting industry. I enjoy solving problems and modeling complex processes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
