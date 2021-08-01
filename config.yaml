@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Benoit Jottreau # Website name
 baseurl: 'https://benoitjottreau.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: "&copy; Benoit Jottreau {year}"
 
 ############################
 ## LANGUAGE

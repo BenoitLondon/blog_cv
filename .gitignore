@@ -41,5 +41,5 @@ vignettes/*.pdf
 .Rdata
 .DS_Store
 
-public
-resources
+public/*
+resources/*
