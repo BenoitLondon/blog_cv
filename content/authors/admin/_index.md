@@ -3,21 +3,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Applied Mathematics
+    institution: Paris-Est University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Master in Financial Mathematics
+    institution: Paris-Est University
+    year: 2003
+email: "benoit_jottreau@yahoo.fr"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mathematics
+- Probabilities
+- Sports Betting
+- Machine Learning
+- Computer Science
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
