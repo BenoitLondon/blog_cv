@@ -30,11 +30,12 @@ experience:
     date_start: '2009-09-15'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        My responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analysing rich event data (Opta, Wyscout, odds, ...)
+        * Developing C++ libraries to fit statistical models (Large Scale Kalman Filters, ...)
+        * Building R packages for ETL, modeling and visualization.
+        * Modeling Football player ratings.
         
   - title: Graduate Lecturer in Mathematics
     company: Paris Est Sup University
@@ -49,9 +50,9 @@ experience:
     company: Engie
     company_url: 'https://www.engie.com/en'
     company_logo: Engie_logo
-    location: California
+    location: Paris, France
     date_start: '2003-03-01'
-    date_end: '2020-09-01'
+    date_end: '2003-09-01'
     description: Worked on Forward Gas Contracts prices modeling and developed application to expose prices to traders.
 
 design:

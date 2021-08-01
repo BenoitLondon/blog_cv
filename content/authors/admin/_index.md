@@ -35,11 +35,16 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bjottreau/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1ZRET_TYktqmoBrY9kNWiirOV5RID5P9_/view?usp=sharing
+
 superuser: true
 title: Benoit Jottreau
 ---
 
 Welcome to my blog! I am a Senior Quantitative Analyst working in the Sports Betting industry. I enjoy solving problems and modeling complex processes.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
