@@ -41,10 +41,15 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1ZRET_TYktqmoBrY9kNWiirOV5RID5P9_/view?usp=sharing
+  link: https://drive.google.com/file/d/1ejo2LC0Eh1oLDGOD8Eqvf4Ca4suOA7iy/view?usp=sharing
 
 superuser: true
 title: Benoit Jottreau
 ---
 
-Welcome to my blog! I am a Senior Quantitative Analyst working in the Sports Betting industry. I enjoy solving problems and modeling complex processes.
+# Welcome to my blog!
+
+I am a Senior Quantitative Analyst working in the Sports Betting industry. I enjoy solving problems and modeling complex processes.
+
+You can download [my Resume](https://drive.google.com/uc?export=download&id=1ejo2LC0Eh1oLDGOD8Eqvf4Ca4suOA7iy).
+

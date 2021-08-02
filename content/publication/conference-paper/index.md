@@ -11,7 +11,7 @@ image:
   preview_only: false
 links:
 - name: PDF
-  url: https://www.researchgate.net/publication/274892934_How_Do_Markets_Play_Soccer
+  url: https://drive.google.com/uc?export=download&id=19tYGAGpBNQoFXp425XFSUxm2rQ-RjFbA
 projects:
 - "1"
 publishDate: "2009-06-09T00:00:00Z"
@@ -19,6 +19,6 @@ summary: Stochastic intensities models for goal scoring in soccer, calibrated on
 tags:
 - Source Themes
 title: How Do Markets Play Soccer?
-url_slides: "https://www.researchgate.net/publication/274892944_How_Do_Markets_Play_Soccer"
+url_slides: "https://drive.google.com/uc?export=download&id=1USB0SOFD7SphMFlDgsPJiNmpWvZU-NAc"
 ---
 
