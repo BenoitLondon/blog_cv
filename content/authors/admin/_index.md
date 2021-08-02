@@ -1,5 +1,5 @@
 ---
-bio: My research interests include Machine Learning, Applied Probabilities and Sports Betting.
+bio: My research interests include Applied Probabilities, Sports Betting and Machine Learning.
 education:
   courses:
   - course: PhD in Applied Mathematics

@@ -17,7 +17,13 @@ projects:
 publishDate: "2009-06-09T00:00:00Z"
 summary: Stochastic intensities models for goal scoring in soccer, calibrated on market data.
 tags:
-- Source Themes
+- Betfair
+- Soccer
+- Betting
+- Utility
+- Bookmaker
+- Dixon-Robinson
+- Stochastic
 title: How Do Markets Play Soccer?
 url_slides: "https://drive.google.com/uc?export=download&id=1USB0SOFD7SphMFlDgsPJiNmpWvZU-NAc"
 ---
